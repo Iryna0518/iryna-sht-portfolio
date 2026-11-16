@@ -1,17 +1,17 @@
-import "@fontsource/unbounded/500.css";
-import "@fontsource/unbounded/400.css";
-import "@fontsource/unbounded/cyrillic-500.css";
-import "@fontsource/unbounded/cyrillic-400.css";
+import "@fontsource/geologica/500.css";
+import "@fontsource/geologica/400.css";
+import "@fontsource/geologica/cyrillic-500.css";
+import "@fontsource/geologica/cyrillic-400.css";
 import "@fontsource/manrope/400.css";
 import "@fontsource/manrope/500.css";
 import "@fontsource/manrope/600.css";
 import "@fontsource/manrope/cyrillic-400.css";
 import "@fontsource/manrope/cyrillic-500.css";
 import "@fontsource/manrope/cyrillic-600.css";
-import "@fontsource/jetbrains-mono/400.css";
-import "@fontsource/jetbrains-mono/500.css";
-import "@fontsource/jetbrains-mono/cyrillic-400.css";
-import "@fontsource/jetbrains-mono/cyrillic-500.css";
+import "@fontsource/ibm-plex-mono/400.css";
+import "@fontsource/ibm-plex-mono/500.css";
+import "@fontsource/ibm-plex-mono/cyrillic-400.css";
+import "@fontsource/ibm-plex-mono/cyrillic-500.css";
 import "./styles.css";
 
 const dict = {

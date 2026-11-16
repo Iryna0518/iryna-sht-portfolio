@@ -2,7 +2,7 @@
   --bg: #faf4f6; --text: #231a1f; --muted: #75656c; --border: #ebdde2;
   --accent: #7a2e5a; --accent-2: #ffd6e4; --surface: #fff; --selection: #2f80ff;
   --hero-bg: #f3d5df;
-  --f-head: "Unbounded", sans-serif; --f-body: "Manrope", sans-serif; --f-mono: "JetBrains Mono", monospace;
+  --f-head: "Geologica", sans-serif; --f-body: "Manrope", sans-serif; --f-mono: "IBM Plex Mono", monospace;
 }
 :root[data-theme="dark"] {
   --bg: #17101a; --text: #faf4f6; --muted: #b3a2aa; --border: #3a2b35;
